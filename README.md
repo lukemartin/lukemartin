@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Luke, a UI developer living in Newry, Ireland 🇮🇪. Currently I am at [Coinbase](http://coinbase.com), helping to build out our institutional offering.
+I'm Luke, a freelance UI developer living in Newry, Ireland 🇮🇪.
 
 I have a passion for all things frontend, whether it's writing application code using React or Svelte, building out design systems with stitches, E2E testing with Cypress, or configuring and optimising CI pipelines - I love getting my hands dirty wherever I can.
 
