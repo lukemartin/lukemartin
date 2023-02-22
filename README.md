@@ -15,6 +15,7 @@ Automating repetetive tasks, and improving developer experience is really import
 ---
 
 [![github badge](https://img.shields.io/badge/lukemartin-333?logo=github)](https://www.github.com/lukemartin)
+<a href="https://hachyderm.io/@jazzpill" rel="me">![mastodon badge](https://img.shields.io/badge/@jazzpill@hachyderm.io-595aff?logo=mastodon&logoColor=white)</a>
 [![twitter badge](https://img.shields.io/badge/luke__is-479BE9?logo=twitter&logoColor=white)](https://www.twitter.com/luke_is)
 [![linkedin badge](https://img.shields.io/badge/Luke_Martin-2967BC?logo=linkedin)](https://www.linkedin.com/in/lukeis)
 [![last.fm badge](https://img.shields.io/badge/lukus-AA2217?logo=lastdotfm)](https://www.last.fm/user/lukus)
