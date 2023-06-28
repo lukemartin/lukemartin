@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Luke, a freelance UI developer living in Newry, Ireland 🇮🇪.
+I'm Luke, a freelance UI developer living in Ireland 🇮🇪.
 
 I have a passion for all things frontend, whether it's writing application code using React or Svelte, building out design systems with stitches, E2E testing with Cypress, or configuring and optimising CI pipelines - I love getting my hands dirty wherever I can.
 
